@@ -1,5 +1,5 @@
-# 🎧 Spotify Clone![SpotifySpotifyLiveGIF](https://github.com/user-attachments/assets/9cf2d0a2-f563-41bf-8800-9a5b2f8bffba)
- - Best of Niharika
+# 🎧 Spotify Clone
+
 
 A clean and responsive Spotify clone built with HTML, CSS, and JavaScript. This project features a sleek music player interface with a curated list of non-copyright songs, offering smooth controls and a user-friendly experience.
 
