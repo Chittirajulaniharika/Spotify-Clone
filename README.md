@@ -7,13 +7,13 @@ A simple and stylish Spotify clone web app built using HTML, CSS, and JavaScript
 
 
 # Features
-🎵 Play/Pause music
-⏮️ Previous and ⏭️ Next song controls
-🎧 Playlist of non-copyright songs
-🕒 Fixed duration display
-📱 Responsive and clean UI design
+- 🎵 Play/Pause music
+- ⏮️ Previous and ⏭️ Next song controls
+- 🎧 Playlist of non-copyright songs
+- 🕒 Fixed duration display
+- 📱 Responsive and clean UI design
 
 # Tech Stack
-HTML – structure
-CSS – styling and layout
-JavaScript – audio control and interactivity
+- HTML – structure
+- CSS – styling and layout
+- JavaScript – audio control and interactivity
